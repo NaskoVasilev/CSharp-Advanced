@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyRevolver", "KeyRevolver\KeyRevolver.csproj", "{0C7BC9DA-0618-4C59-9695-611E4A55F907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaking", "Sneaking\Sneaking.csproj", "{7073C2F0-20DE-4E4A-9DD5-ED92447C5182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBlockchain", "CryptoBlockchain\CryptoBlockchain.csproj", "{7295E404-9F36-486D-8585-FB5B809B590A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitList", "HitList\HitList.csproj", "{F81FC728-1C7C-4719-BEA6-59994590905B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7BC9DA-0618-4C59-9695-611E4A55F907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7BC9DA-0618-4C59-9695-611E4A55F907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7BC9DA-0618-4C59-9695-611E4A55F907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7BC9DA-0618-4C59-9695-611E4A55F907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7073C2F0-20DE-4E4A-9DD5-ED92447C5182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7073C2F0-20DE-4E4A-9DD5-ED92447C5182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7073C2F0-20DE-4E4A-9DD5-ED92447C5182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7073C2F0-20DE-4E4A-9DD5-ED92447C5182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7295E404-9F36-486D-8585-FB5B809B590A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7295E404-9F36-486D-8585-FB5B809B590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7295E404-9F36-486D-8585-FB5B809B590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7295E404-9F36-486D-8585-FB5B809B590A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81FC728-1C7C-4719-BEA6-59994590905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81FC728-1C7C-4719-BEA6-59994590905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81FC728-1C7C-4719-BEA6-59994590905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81FC728-1C7C-4719-BEA6-59994590905B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3CBC7B-D454-438F-9FA9-6DB680430AD4}
+	EndGlobalSection
+EndGlobal

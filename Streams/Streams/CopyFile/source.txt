@@ -1,0 +1,2 @@
+This text will be copied! Using FileStream class in C#!
+It is simple implementation!
