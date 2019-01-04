@@ -11,5 +11,7 @@ Course C# Advanced part of C# Fundamentals module.
 
 5. Functional programming
 
-Final exam - 14.10.2018 - 400/400 points
+Final exam - 14.10.2018 : 400/400 points
+
+Retake Exam - 17.12.2018 : 400/400 points
 
